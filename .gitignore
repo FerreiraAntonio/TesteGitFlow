@@ -30,5 +30,4 @@
 *.exe
 *.out
 *.app
-/.vs/TesteGitFlow/FileContentIndex
-/.vs/slnx.sqlite
+/.vs
